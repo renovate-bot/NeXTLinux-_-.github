@@ -1,0 +1,13 @@
+{
+    "name": "Executor CI Workflow",
+    "description": "Executor CI workflow template.",
+    "iconName": "nextlinux-corp-logo",
+    "categories": [
+        "Python"
+    ],
+    "filePatterns": [
+        "package.json$",
+        "^Dockerfile",
+        ".*\\.md$"
+    ]
+}
