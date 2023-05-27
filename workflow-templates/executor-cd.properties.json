@@ -1,0 +1,13 @@
+{
+    "name": "Executor CD Workflow",
+    "description": "Executor CD workflow template.",
+    "iconName": "nextlinux-corp-logo",
+    "categories": [
+        "Python"
+    ],
+    "filePatterns": [
+        "package.json$",
+        "^Dockerfile",
+        ".*\\.md$"
+    ]
+}
